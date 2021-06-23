@@ -10,7 +10,7 @@ app.get('/', (request, response) => {
     <title>Powered By Code Engine</title>
   </head>
   <body>
-    Hola un saludo a los asistentes al Code Zone del Technology summit
+    Hello world!!
   </body>
 </html>`);
 });
